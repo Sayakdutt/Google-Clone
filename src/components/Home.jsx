@@ -2,11 +2,10 @@ import Logo from "../assets/google-logo.png";
 import Header from "./Header";
 import SearchInput from "./SearchInput";
 import Footer from "./Footer";
-import VoiceSearch from "./VoiceSearch";
+
 const Home = () => {
     return (
         <div className="flex flex-col h-[100vh]">
-        <VoiceSearch />
             <Header />
             <main className="grow flex justify-center">
                 <div className="w-full px-5 flex flex-col items-center mt-44">
