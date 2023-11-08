@@ -1,9 +1,12 @@
 
 
-.skiptranslate.goog-te-gadget select {
-    padding-top: 10px;
-    margin-top: 5px;
+.goog-te-gadget {
+    padding-left: 20px;
+    display: -webkit-inline-box;
+
 }
+
+
 
 
 
