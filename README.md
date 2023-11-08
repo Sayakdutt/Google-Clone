@@ -1,6 +1,6 @@
 # Google Clone with Voice Search and Suggestions
 
-This is a Google search clone created using React.js, Tailwind CSS, Vite, and the Google Search API. It includes voice recognition for search, autocomplete suggestions, and displays search results along with images and pagination. The Context API is used for state management.
+This is a Google search clone created using React.js, Tailwind CSS, Vite, and the Google Search API. It provides features like debounced search,autocomplete suggestions, and displays search results along with images, pagination and multilingual support using Google Translate. The Context API is used for state management for searching images.
 
 ![Google Clone](screenshot.png)
 
@@ -13,7 +13,7 @@ This is a Google search clone created using React.js, Tailwind CSS, Vite, and th
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
@@ -21,11 +21,12 @@ You can access the live demo of the Google Clone here: [Demo Link](#)
 
 ## Features
 
-- **Normal Search:** Perform a Google search with the provided search query.
+- **Google Search Integration:** Perform a Google search with the provided search query.
 - **Voice Recognition:** Use your microphone to perform a voice search.
 - **Autocomplete Suggestions:** Display search suggestions as you type.
 - **Search Results:** Show search results including web pages and images.
-- **Pagination:** Navigate through search results with pagination.
+- **Multilingual Support:** Explore content in multple langugages using Google Translate
+- **Pagination:** Easily Navigate through search results with pagination.
 
 ## Installation
 
@@ -80,10 +81,3 @@ This will start the development server at `http://localhost:3000`.
 
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Enjoy building your Google Clone with advanced search and voice recognition features! If you have any questions or need assistance, feel free to reach out to the community or the project maintainers. Happy coding!
