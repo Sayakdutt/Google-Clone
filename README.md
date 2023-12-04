@@ -2,7 +2,6 @@
 
 This is a Google search clone created using React.js, Tailwind CSS, Vite, and the Google Search API. It provides features like debounced search,autocomplete suggestions, and displays search results along with images, pagination and multilingual support using Google Translate. The Context API is used for state management for searching images.
 
-![Google Clone](screenshot.png)
 
 ## Table of Contents
 
@@ -17,7 +16,7 @@ This is a Google search clone created using React.js, Tailwind CSS, Vite, and th
 
 ## Demo
 
-You can access the live demo of the Google Clone here: [Demo Link](#)
+You can access the live demo of the Google Clone here: [Demo Link](https://google-clone-frontend.netlify.app)
 
 ## Features
 
@@ -75,7 +74,7 @@ This will start the development server at `http://localhost:3000`.
 - Vite
 - Google Search API
 - Context API
-- React Speech Recognition (or any voice recognition library of your choice)
+
 
 ## Contributing
 
