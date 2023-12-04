@@ -4,10 +4,10 @@ import { useContext, useState, useEffect } from "react";
 import Logo from "../assets/google-logo.png";
 import SearchInput from "./SearchInput";
 import ProfileIcon from "./ProfileIcon";
-import { Context } from "../utils/context";
+import { Context } from "../context/imageSearchContext";
 import { menu } from "../utils/constants";
 
-import './SearchREsultHeader.css';
+import './SearchResultHeader.css';
 
 const SearchResultHeader = () => {
   const [selectedMenu, setSelectedMenu] = useState("All");
