@@ -7,7 +7,7 @@ import Footer from "./Footer";
 import SearchedItemTemplate from "./SearchedItemTemplate";
 import SearchedImageItemTemplate from "./SearchedImageItemTemplate";
 import Pagination from "./Pagination";
-import { Context } from "../context/imageSearchContext";
+import { Context } from "../context/ImageSearchContext";
 
 const SearchResult = () => {
   const [result, setResult] = useState();
