@@ -1,4 +1,4 @@
-# Google Clone with Voice Search and Suggestions
+# Google Clone with ReactJs
 
 This is a Google search clone created using React.js, Tailwind CSS, Vite, and the Google Search API. It provides features like debounced search,autocomplete suggestions, and displays search results along with images, pagination and multilingual support using Google Translate. The Context API is used for state management for searching images.
 
