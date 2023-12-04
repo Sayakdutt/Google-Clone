@@ -5,7 +5,7 @@ import Logo from "../assets/google-logo.png";
 import SearchInput from "./SearchInput";
 import ProfileIcon from "./ProfileIcon";
 import { Context } from "../context/ImageSearchContext";
-import { menu } from "../utils/constants";
+import { menu } from "../utils/Constants";
 
 import './SearchResultHeader.css';
 
